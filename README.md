@@ -13,6 +13,6 @@
   </p>
 
 <h1> use for linux </h1>
-<li> git clone </li>
+<li> git clone https://github.com/basilisk-security/password-tool.git </li>
 <li> cd password-tool </li>
 <li> python3 password.py  </li>
