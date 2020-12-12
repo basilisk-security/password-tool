@@ -1,7 +1,7 @@
 # password-tool 
 <p> this tool generates and hashes passwords using python.
   </p>
-  <h2> YOU NEED PYTHON INSTALLED ON YOUR COMPUTER</h2>
+  <h3> YOU NEED PYTHON INSTALLED ON YOUR COMPUTER</h3>
 <h1> use for windows </h1>
 <p> 
   <ul>
