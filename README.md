@@ -7,7 +7,7 @@
   <ul>
     <li> download zipped folder, and unzip </li>
     <li> pip install pyfiglet </li>
-    <li> cd "then type ypur file directory. ignore the quotes." </li>
+    <li> cd "then type your file directory. ignore the quotes." </li>
     <li> python password.py </li>
     </ul>
   </p>
